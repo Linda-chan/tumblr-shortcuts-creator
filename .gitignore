@@ -1,8 +1,10 @@
 # My entries...
 Backups/
 Test/
+Tests/
 Misc/
 Rejected/
+Old Versions/
 
 # Service files...
 git*.sh
@@ -12,13 +14,20 @@ curl-ca-bundle.crt
 .tumblr*
 *.html
 
-# Windows image file caches
+# Windows image file caches...
 Thumbs.db
 ehthumbs.db
 photothumb.db
 
-# Folder config file
+# Folder config file...
 Desktop.ini
 
-# Windows shortcuts
+# Windows shortcuts...
 *.lnk
+
+# Backups...
+nppBackup/
+*.BAK
+*.BAK??
+*.bak
+*.bak??
